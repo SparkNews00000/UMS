@@ -52,3 +52,4 @@ The UMS (User Management System) project is a web application that allows users 
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any enhancements or bug fixes.
+
